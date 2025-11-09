@@ -48,3 +48,5 @@ Even with limited data, TF-IDF and Naive Bayes demonstrate the strength of **int
 ```bash
 source ../Day-01-Titanic/venv/bin/activate
 python3 run_resume_screener.py
+---
+**Update:** Added requirements, license, and changelog files for version 1.0.0
