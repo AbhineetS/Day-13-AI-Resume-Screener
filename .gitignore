@@ -1,0 +1,5 @@
+
+# Extra ignores
+*.pkl
+__pycache__/
+.DS_Store
